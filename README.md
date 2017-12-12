@@ -14,4 +14,8 @@ Required attributes: bucket_name and first /path/to/wordpress
 
 Credentials will be get from env or AWS Config or AWS Credentials files
 
+
+This is a 'Fork' from https://github.com/FujiClado/WordPress-backup
+
+
 MIT
