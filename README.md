@@ -2,8 +2,9 @@
 Backup multiple wordpress applications to s3
 
 Usage:
+```
 python backup.py bucket_name /path/to/wordpress -p /path/to/another/wordpress -p /path/to/another/wordpress -a access_aws_key -s secret_aws_key -r region
-
+```
 
 Required: bucket_name and first /path/to/wordpress
 
