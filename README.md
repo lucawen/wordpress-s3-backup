@@ -12,7 +12,7 @@ python backup.py bucket_name /path/to/wordpress -p /path/to/another/wordpress -p
 
 Required attributes: bucket_name and first /path/to/wordpress
 
-Credentials will be get from env or AWS Config or AWS Credentials files
+Credentials will be get from env or AWS Config or AWS Credentials files or if you pass this in arguments
 
 
 This is a 'Fork' from https://github.com/FujiClado/WordPress-backup
