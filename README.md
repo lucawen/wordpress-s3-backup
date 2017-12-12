@@ -2,6 +2,7 @@
 Backup multiple wordpress applications to s3
 
 Requirements:
+python 3.4
 boto3
 
 Usage:
